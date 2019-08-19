@@ -1,4 +1,4 @@
-# A Repository for people to make PRs to. -by Prateek gaur
+# A Repository for people to make PRs to. -Prateekgaur
 
 ## Instructions
 
